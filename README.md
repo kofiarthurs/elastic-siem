@@ -1,6 +1,6 @@
 <h1>Elastic SIEM</h1>
 <h2>Description</h2>
-In today’s lab, We will set up ELK to monitor our Kali machine for nmap scans and send email alerts.
+In today’s lab, We will set up Elastic to monitor our Kali machine for nmap scans and send email alerts.
 
 <h2>Deployment Option</h2>
 <img src="https://imgur.com/2SoP4NU.png" height="80%" width="80%"/>
