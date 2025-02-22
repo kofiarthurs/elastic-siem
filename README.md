@@ -14,7 +14,7 @@ Opening the deployment leads to the dashboard where we will be doing the next st
 <h2>Integrations</h2>
 <img src="https://imgur.com/PUBy55Z.png" height="80%" width="80%"/>
 
-Once everything was configured, select Integrations under Management and chose Elastic Defend.
+Once everything is configured, select Integrations under Management and chose Elastic Defend.
 
 <img src="https://imgur.com/JUk0oq2.png" height="80%" width="80%"/>
 
@@ -40,7 +40,7 @@ Using the search query process.args:”nmap”, we find an nmap scan log at 13:4
 
 <img src="https://imgur.com/bKwFIMY.png" height="80%" width="80%"/>
 
-In Dashboards, we will create a dashboard using MYNMAP. Once clicking Create Dashbord, select Add From Libary.
+In Dashboards, we will create a dashboard using MyNMAP. Once clicking Create Dashboard, select Add From Libary.
 
 <img src="https://imgur.com/KVW3awD.png" height="80%" width="80%"/>
 
@@ -49,7 +49,7 @@ Under Create Visualization, we can create many ways to display the data.
 
 <img src="https://imgur.com/FtT1QNE.png" height="80%" width="80%"/>
 
-To create this specific chart, we can click Records on the left, which auto populates the axes on the right. Horizontal axis shows the time intervals, the vertical axis shows the count.
+To create this specific chart, we can click Records on the left, which auto populates the axes on the right. The horizontal axis shows the time intervals and the vertical axis shows the count.
 
 <img src="https://imgur.com/UP7zjI5.png" height="80%" width="80%"/>
 
@@ -82,7 +82,7 @@ Under Alerts and Manage Rules, we can see our rule.
 <img src="https://imgur.com/eQMYyWE.png" height="80%" width="80%"/>
 
 
-As soon as the scan ran the email was sent to my gmail. The Alerts dashboard show the time as well.
+As soon as the scan ran an email was sent to my gmail. The Alerts dashboard show the time as well.
 
 <img src="https://imgur.com/l6bU06T.png" height="80%" width="80%"/>
 
